@@ -1,4 +1,4 @@
-// Create datatypes.js file and use the JavaScript typeof operator to check different data types. Check the data type of each variable
+// 5. Create datatypes.js file and use the JavaScript typeof operator to check different data types. Check the data type of each variable
 let name = "Mustafa";
 let condition = true;
 let unkown = undefined;
@@ -9,7 +9,7 @@ console.log(typeof condition);
 console.log(typeof unkown);
 console.log(typeof empty);
 
-// Declare two variables myAge and yourAge and assign them initial values and log to the browser console.
+// 10. Declare two variables myAge and yourAge and assign them initial values and log to the browser console.
 let myAge = 25;
 let yourAge = 30;
 
